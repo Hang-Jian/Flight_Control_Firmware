@@ -1,0 +1,2 @@
+MultiWii_x4_mpu6050_last_bluetooth   是藍牙版韌體
+MultiWii_x4_mpu6050_last_RC   	     是遙控版韌體
